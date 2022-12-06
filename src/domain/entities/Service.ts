@@ -5,4 +5,5 @@ export interface Service {
   type: string;
   description: string;
   price: number;
+  createdAt: Date;
 }
