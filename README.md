@@ -95,7 +95,7 @@ Start doing these steps :
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gabrielfnasc/api-counselor.git
+   git clone https://github.com/gabrielfnasc/connect-services-api.git
    ```
 2. Install NPM packages
    ```sh
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Gabriel Ferreira  - ferreiranbiel@gmail.com
 
-Project Link:(https://github.com/gabrielfnasc/api-counselor.git)
+Project Link:(https://github.com/gabrielfnasc/connect-services-api.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
