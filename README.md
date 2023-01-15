@@ -1,7 +1,7 @@
 
-<a name="language-tools-api"></a>
+<a name="connect-services-api"></a>
 <!--
-*** Thanks for checking out the language-tools-api If you have a suggestion
+*** Thanks for checking out the connect-services-api If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -56,12 +56,12 @@
 
 
 
-I built this simple project to help me expand my English vocabulary.
+This project was made with a goal to connect the blue-collar workers with clients.
 
 Here's why:
-* A project that helps english learners.
-* find new words and save!
-* simple and efficient.
+* help in the economy.
+* accessibility.
+* easier way to offer your services.
 
 
 
